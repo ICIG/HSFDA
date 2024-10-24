@@ -17,6 +17,6 @@ The HSFDA project aims to address the problem of speech enhancement, utilizing t
 2.Download the pre-trained speech model and dataset
 3.python main.py
 
-## Overall model architecture diagram
+
 
 
